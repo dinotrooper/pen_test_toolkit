@@ -7,5 +7,5 @@ To XOR a string with a single character key, $ python3 xor_decoder.py [string] -
 The ciphered strings will be outputed to a file named "decoded_input.txt" <br>
 <br>
 To XOR a file with a single character key, $ python3 xor_decoder.py [filename] -s_key -file <br>
-The ciphered strings will be output
+The ciphered strings will be output to a file named "decoded_file.txt"
 
